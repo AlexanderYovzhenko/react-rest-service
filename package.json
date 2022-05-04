@@ -73,7 +73,6 @@
     "fastify-multer": "^2.0.2",
     "fastify-swagger": "^4.14.0",
     "jsonwebtoken": "^8.5.1",
-    "node-emoji": "^1.11.0",
     "pg": "^8.7.1",
     "pino": "^7.6.1",
     "reflect-metadata": "^0.1.13",

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RS School REST service
 
 ## Prerequisites
@@ -65,6 +64,3 @@ docker-compose up
 * `File`:
   - `GET file/:taskId/:filename/` - download file
   - `POST file/` - upload file `multipart/form-data`
-=======
-# react-rest-service
->>>>>>> 109bd1393beb271ff01551ddf576074310470a82
