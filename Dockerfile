@@ -6,7 +6,7 @@ WORKDIR /home/app/
 
 COPY dist ./dist
 COPY migrations ./migrations
-# COPY uploads ./uploads
+COPY uploads ./uploads
 COPY typings ./typings
 COPY src ./src
 COPY logs ./logs
